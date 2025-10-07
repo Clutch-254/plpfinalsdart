@@ -1,9 +1,7 @@
-import 'package:chemgeekpro1/user/calculatorhub.dart';
-import 'package:chemgeekpro1/user/homepageuser.dart';
-import 'package:chemgeekpro1/user/molecularvisualizer.dart';
-import 'package:chemgeekpro1/user/profileuser.dart';
+import 'package:chemgeekplp/tsuser/calculatorhub.dart';
+
 import 'package:flutter/material.dart';
-import 'package:curved_navigation_bar/curved_navigation_bar.dart';
+
 
 class Bottomnavuser extends StatefulWidget {
   const Bottomnavuser({super.key});
