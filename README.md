@@ -1,0 +1,8 @@
+# chemgeekplp
+
+# Introduction
+ChemGeek Pro is a comprehensive mobile application designed for chemistry enthusiasts, students, and professionals who need powerful computational and visualization tools at their fingertips. Whether you're balancing complex chemical equations, visualizing molecular structures in 3D, or performing intricate stoichiometric calculations, ChemGeek Pro serves as your all-in-one chemistry companion. The app combines educational resources with practical tools to make chemistry more accessible, interactive, and engaging for users at all levels of expertise.
+
+# Bottomnav bar
+
+This component implements an elegant curved bottom navigation bar that serves as the primary navigation interface for ChemGeek Pro. Built using Flutter's curved_navigation_bar package, it provides users with quick access to four essential sections of the application: the Home page for quick access to features and recent activities, the Molecular Visualizer for interactive 3D molecule rendering and structure analysis, the Calculator Hub containing various chemistry calculators for equations, molar mass, concentration conversions and more, and the User Profile for personalized settings and account management. The navigation bar features a distinctive indigo color scheme that reflects the app's scientific identity, coupled with smooth 500-millisecond animations that create a fluid user experience. Its curved design not only adds visual appeal but also provides clear feedback for the currently selected tab, making navigation intuitive and enjoyable throughout the application.RetryClaude can make mistakes. Please double-check responses.
