@@ -1,6 +1,8 @@
 import 'package:chemgeekplp/tsuser/calculatorhub.dart';
 import 'package:chemgeekplp/tsuser/homepage.dart';
 import 'package:chemgeekplp/tsuser/molecularvisualizer.dart';
+import 'package:chemgeekplp/tsuser/profilepage.dart';
+import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 
 import 'package:flutter/material.dart';
 
@@ -22,7 +24,7 @@ class _BottomnavuserState extends State<Bottomnavuser> {
   
   late Profileuser profile;
   
-  // TODO: Remove these temporary variables later
+ 
   String _tempNavigationLabel = "Navigation";
   bool _isAnimating = false;
   double _animationProgress = 0.0;
